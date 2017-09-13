@@ -7,7 +7,7 @@ Time: 7:00 PM - 8:30 PM &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&n
 Textbook: http://www.deeplearningbook.org/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Facebook: https://goo.gl/tDaeQk
 
 | Topic                       | Date        |    Location         | Reading               |
-| ----------------------------| ------------| --------------------| ----------------------|
+|:----------------------------| -----------:| -------------------:| ---------------------:|
 | Machine Intelligence        | 9.12.17     | Hariri Seminar Room | Chapter: 1, 5.1       | 
 | Gradient-Based Learning     | 9.19.17     | Hariri Seminar Room | Chapter: 4, 6.5       |
 | Neural Networks             | 9.26.17     | MCS 148             | Chapter: 6            |
